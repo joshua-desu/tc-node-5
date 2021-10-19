@@ -12,3 +12,5 @@
 ## Contributors
 
 - [Ben Bryant](https://github.com/Bryantellius)
+- [Soma-Alpha](https://github.com/Soma-Alpha)
+ 
