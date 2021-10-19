@@ -13,6 +13,7 @@
 ## Contributors
 
 - [Ben Bryant](https://github.com/Bryantellius)
+- [Kevin Wong](https://github.com/devkev1)
 - [Keith Petryshyn](https://github.com/KeithPetr)
 - [Tanner Voss](https://github.com/TannerVoss)
 - [Joshua Burns](https://github.com/joshua-desu)
