@@ -12,4 +12,4 @@
 ## Contributors
 
 - [Ben Bryant](https://github.com/Bryantellius)
-[Tanner Voss](https://guthub.com/TannerVoss)
+[Tanner Voss] (https://guthub.com/TannerVoss)
