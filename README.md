@@ -13,3 +13,4 @@
 ## Contributors
 
 - [Ben Bryant](https://github.com/Bryantellius)
+- [Kevin Wong](https://github.com/devkev1)
