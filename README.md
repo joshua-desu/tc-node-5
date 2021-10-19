@@ -14,3 +14,4 @@
 
 - [Ben Bryant](https://github.com/Bryantellius)
 - [Joshua Burns](https://github.com/joshua-desu)
+- [Soma-Alpha](https://github.com/Soma-Alpha)
