@@ -13,3 +13,4 @@
 ## Contributors
 
 - [Ben Bryant](https://github.com/Bryantellius)
+- [Joshua Burns](https://github.com/joshua-desu)
