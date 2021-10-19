@@ -13,5 +13,6 @@
 ## Contributors
 
 - [Ben Bryant](https://github.com/Bryantellius)
+- [Tanner Voss](https://github.com/TannerVoss)
 - [Joshua Burns](https://github.com/joshua-desu)
 - [Soma-Alpha](https://github.com/Soma-Alpha)
