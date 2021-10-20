@@ -3,6 +3,7 @@
 ## Getting Started
 
 1. Fork this repository
+ 1.a Go to Github and click on the fork.. then click on code and copy the URL.
 2. Clone this repository
 3. Create a new branch with your name
 4. Append your name and github profile link to the [contributors](#contributors) list below
