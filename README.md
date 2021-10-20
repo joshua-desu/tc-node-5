@@ -35,6 +35,7 @@ This project is defined as it is built. It is meant for practice with the intent
 - [Joshua Burns](https://github.com/joshua-desu)
 - [Soma Alpha](https://github.com/Soma-Alpha)
 - [Jeff Titak](https://github.com/jtitak06)
+- [ziaul Chowdhury](https://github.com/zianyc)
 
 ## Maintenance
 
