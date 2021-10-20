@@ -13,7 +13,8 @@
 
 ## Contributors
 
-- [Ben Bryant](https://github.com/Bryantellius)
+- [Ben Bryant](https://github.com/Bryantellius) &#127891;
+- [John Ward](https://github.com/johndward01) &#127891;
 - [Kevin Wong](https://github.com/devkev1)
 - [Keith Petryshyn](https://github.com/KeithPetr)
 - [Tanner Voss](https://github.com/TannerVoss)
