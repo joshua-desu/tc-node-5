@@ -1,5 +1,7 @@
 # tc-node-5
 
+This project is defined as it is built. It is meant for practice with the intent to showcase a community of developers.
+
 ## Getting Started
 
 1. Fork this repository
@@ -33,3 +35,7 @@
 - [Joshua Burns](https://github.com/joshua-desu)
 - [Soma Alpha](https://github.com/Soma-Alpha)
 - [Jeff Titak](https://github.com/jtitak06)
+
+## Maintenance
+
+This repository is created and maintained by TrueCoders staff. As we progress, more content will be added as covered.
