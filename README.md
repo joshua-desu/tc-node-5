@@ -4,11 +4,24 @@
 
 1. Fork this repository
 2. Clone this repository
-3. Create a new branch with your name
-4. Append your name and github profile link to the [contributors](#contributors) list below
+3. [Install Dependencies](#installing-dependencies)
+
+## Installing Dependencies
+
+1. Run `npm install` in the root directory (`tc-node-5/`)
+
+## Running Locally
+
+1. Run `npm run dev` to start your development server locally
+2. Visit `http:localhost:3000` in your browser to view the output
+
+## Contributing
+
+1. Create a new branch with your name
+2. Append your name and github profile link to the [contributors](#contributors) list below
    - In markdown, a link is denoted by the following syntax: `[alt text](link url)`
-5. Commit your update, and push your branch back to the remote repository
-6. I'll merge pull requests
+3. Commit your update, and push your branch back to the remote repository
+4. The moderator will review and merge your pull requests
 
 ## Contributors
 
