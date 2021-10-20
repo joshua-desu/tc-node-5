@@ -26,5 +26,7 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(config.port || 3000, () =>
-  console.log("Server listening on port: " + config.port || 3000)
+  console.log(
+    "Server listening on port: " + (isNaN(config.port) ? 3000 : config.port)
+  )
 );
