@@ -3,7 +3,8 @@
     {
       "name": "Ben Bryant",
       "title": "Author",
-      "image_url": "assets/undefinedBen.png",
+      "image_url": "undefinedBen.png",
+      "linkedin_url": "https://www.linkedin.com/in/benjaminrbryant/",
       "github_url": "https://github.com/Bryantellius",
       "codewars_username": "Bryantellius"
     },

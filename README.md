@@ -2,23 +2,25 @@
 
 This project is defined as it is built. It is meant for practice with the intent to showcase a community of developers.
 
-## Getting Started
+## Contributing
+
+### Getting Started
 
 1. Fork this repository
    - Go to Github and click on the **fork**, then click on **code** and copy the SSH URL
 2. Clone this repository
 3. [Install Dependencies](#installing-dependencies)
 
-## Installing Dependencies
+### Installing Dependencies
 
 1. Run `npm install` in the terminal at the root directory (`tc-node-5/`)
 
-## Running Locally
+### Running Locally
 
 1. Run `npm run dev` in your terminal to start the project development server locally
 2. Visit [http://localhost:3000](http://localhost:3000) in your browser to view the output
 
-## Contributing
+### First-Time Contributor
 
 1. Create a new branch with your name
 2. Append your name and github profile link to the [contributors](#contributors) list below
