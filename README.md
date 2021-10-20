@@ -18,5 +18,5 @@
 - [Keith Petryshyn](https://github.com/KeithPetr)
 - [Tanner Voss](https://github.com/TannerVoss)
 - [Joshua Burns](https://github.com/joshua-desu)
-- [Soma-Alpha](https://github.com/Soma-Alpha)
+- [Soma Alpha](https://github.com/Soma-Alpha)
 - [Jeff Titak](https://github.com/jtitak06)

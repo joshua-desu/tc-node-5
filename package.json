@@ -1,0 +1,22 @@
+{
+  "name": "tc-node-5",
+  "version": "1.0.0",
+  "description": "A coding space and showcase for all TrueCoders",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryantellius/tc-node-5.git"
+  },
+  "author": "Ben Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryantellius/tc-node-5/issues"
+  },
+  "homepage": "https://github.com/Bryantellius/tc-node-5#readme",
+  "dependencies": {
+    "bulma": "^0.9.3"
+  }
+}
