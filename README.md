@@ -5,6 +5,7 @@ This project is defined as it is built. It is meant for practice with the intent
 ## Getting Started
 
 1. Fork this repository
+ 1.a Go to Github and click on the fork.. then click on code and copy the URL.
 2. Clone this repository
 3. [Install Dependencies](#installing-dependencies)
 
