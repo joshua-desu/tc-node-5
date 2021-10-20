@@ -8,12 +8,12 @@
 
 ## Installing Dependencies
 
-1. Run `npm install` in the root directory (`tc-node-5/`)
+1. Run `npm install` in the terminal at the root directory (`tc-node-5/`)
 
 ## Running Locally
 
-1. Run `npm run dev` to start your development server locally
-2. Visit `http:localhost:3000` in your browser to view the output
+1. Run `npm run dev` in your terminal to start the project development server locally
+2. Visit [http://localhost:3000](http://localhost:3000)` in your browser to view the output
 
 ## Contributing
 
