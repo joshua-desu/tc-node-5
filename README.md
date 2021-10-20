@@ -15,7 +15,7 @@ This project is defined as it is built. It is meant for practice with the intent
 ## Running Locally
 
 1. Run `npm run dev` in your terminal to start the project development server locally
-2. Visit [http://localhost:3000](http://localhost:3000)` in your browser to view the output
+2. Visit [http://localhost:3000](http://localhost:3000) in your browser to view the output
 
 ## Contributing
 
